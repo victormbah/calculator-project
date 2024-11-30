@@ -76,7 +76,7 @@ for i in range(4):
     root.grid_columnconfigure(i, weight=1)
 
 # set the window size to a 9:16 raio 
-width = 300
+width = 500
 height = 300
 root.geometry(f"{width}x{height}")
 
