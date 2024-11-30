@@ -77,7 +77,7 @@ for i in range(4):
 
 # set the window size to a 9:16 raio 
 width = 500 # i changed this 
-height = 300
+height = 500 # i changed this
 root.geometry(f"{width}x{height}")
 
 # Make the window non-resizable
